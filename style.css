@@ -1,0 +1,27 @@
+body {
+      font-family: Arial;
+      background-color: #222;
+      color: white;
+      text-align: center;
+      padding: 2rem;
+    }
+    input, button {
+      padding: 10px;
+      font-size: 1rem;
+      margin: 10px;
+    }
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+    li {
+      margin: 10px 0;
+      background: #444;
+      padding: 10px;
+      border-radius: 5px;
+    }
+    .delete-btn {
+      margin-left: 20px;
+      color: red;
+      cursor: pointer;
+    }
